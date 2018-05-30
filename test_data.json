@@ -1,0 +1,18 @@
+[
+  {
+    "model": "quickstart.page",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "price": "400"
+    }
+  },
+  {
+    "model": "quickstart.page",
+    "pk": 2,
+    "fields": {
+      "name": "Paul",
+      "price": "500"
+    }
+  }
+]

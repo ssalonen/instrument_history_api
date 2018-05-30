@@ -1,0 +1,7 @@
+.vscode
+/.ipynb_checkpoints/
+instrument_history_api.egg-info/
+db.sqlite3*
+.DS_Store
+*.pyc
+.idea
